@@ -3,7 +3,16 @@
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 
 
-main{
+main#primeiro{
+    font-family: 'Titillium Web', Sans-Serif;
+    background-color:black	;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    margin: auto;
+}
+main#segundo{
+
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #F5FFFA	;
     border-radius: 10px;
@@ -11,6 +20,7 @@ main{
     height: auto;
     margin: auto;
 }
+
 body{
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #20B2AA	;
