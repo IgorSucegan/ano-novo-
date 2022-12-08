@@ -1,98 +1,86 @@
-
 @charset "UTF-8";
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 
 
-main#primeiro{
+main#primeiro {
     font-family: 'Titillium Web', Sans-Serif;
-    background-color:black	;
+    background-color: black;
     border-radius: 10px;
     width: 90%;
     height: auto;
     margin: auto;
+
 }
-main#segundo{
+main#segundo {
 
     font-family: 'Titillium Web', Sans-Serif;
-    background-color: #F5FFFA	;
+    background-color: #F5FFFA;
     border-radius: 10px;
     width: 90%;
     height: auto;
     margin: auto;
-}
+    border-width: medium;
+    border-style: solid;
+    border-color: #00FFFF;
 
-body{
-    font-family: 'Titillium Web', Sans-Serif;
-    background-color: #20B2AA	;
 }
-footer{
+body {
     font-family: 'Titillium Web', Sans-Serif;
-    background-color:#E0FFFF	;
+    background-color: #20B2AA;
+}
+footer {
+    font-family: 'Titillium Web', Sans-Serif;
+    background-color: #E0FFFF;
     width: 90%;
     height: 30px;
     border-radius: 10px;
     margin: auto;
     margin-bottom: auto;
 }
-video#vi{
-margin: center;
- border-radius: 10px;   
-     padding: 0em;
-
-
-
-/* vertical | horizontal */
-padding: 0% 0%;
-
-/* superior | horizontal | inferior */
-padding: 0em 0em 0em;
-
-/* superior | direita | inferior | esquerda */
-padding: 0px 0em 0 0em;
-
-/* Valores globais */
-padding: inherit;
-padding: initial;
-padding: unset;
-}
-div#nav{
+video#vi {
+    margin: auto;
     border-radius: 10px;
-    background-color:#E0FFFF	;
+   ;
+
+}
+div#nav {
+    border-radius: 10px;
+    background-color: #E0FFFF;
     width: 90%;
     margin-top: auto;
     margin: auto;
 }
-div#k7{
+div#k7 {
     margin-left: auto;
 }
-b#ti{
+b#ti {
     font-family: 'Titillium Web', Sans-Serif;
     margin-top: -5px;
-      font-size: 40px;
+    font-size: 40px;
 }
-div#md{
-  border-radius: 10px;  
+div#md {
+    border-radius: 10px;
 }
-div#nt{
-        font-family: 'Titillium Web', Sans-Serif;
-        text-align: center;
-    }
-p#t{
-        margin-left: auto;
-        font-size: 18px;
-    }
-button#s{
-      
+div#nt {
+    font-family: 'Titillium Web', Sans-Serif;
+    text-align: center;
+}
+p#t {
+    margin-left: auto;
+    font-size: 18px;
+}
+button#s {
 
-        font-family: 'Titillium Web', Sans-Serif;
-border-radius: 10px;
 
-    }
-img{
-    margin:center ;
-        border-radius: 10px;
-    }
-b#i{
-        font-size: 20px;
-        
-    }
+    font-family: 'Titillium Web', Sans-Serif;
+    border-radius: 10px;
+
+}
+img {
+    margin: center;
+    border-radius: 10px;
+}
+b#i {
+    font-size: 20px;
+
+}
