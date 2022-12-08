@@ -1,0 +1,70 @@
+
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+
+main{
+    font-family: 'Titillium Web', Sans-Serif;
+    background-color: #F5FFFA	;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    margin: auto;
+}
+body{
+    font-family: 'Titillium Web', Sans-Serif;
+    background-color: #20B2AA	;
+}
+footer{
+    font-family: 'Titillium Web', Sans-Serif;
+    background-color:#E0FFFF	;
+    width: 90%;
+    height: 30px;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: auto;
+}
+video#vi{
+
+ border-radius: 10px;   
+}
+div#nav{
+    border-radius: 10px;
+    background-color:#E0FFFF	;
+    width: 90%;
+    margin-top: auto;
+    margin: auto;
+}
+div#k7{
+    margin-left: auto;
+}
+b#ti{
+    font-family: 'Titillium Web', Sans-Serif;
+    margin-top: -5px;
+      font-size: 40px;
+}
+div#md{
+  border-radius: 10px;  
+}
+div#nt{
+        font-family: 'Titillium Web', Sans-Serif;
+        text-align: center;
+    }
+p#t{
+        margin-left: auto;
+        font-size: 18px;
+    }
+button#s{
+      
+
+        font-family: 'Titillium Web', Sans-Serif;
+border-radius: 10px;
+
+    }
+img{
+        border-radius: 10px;
+    }
+b#i{
+        font-size: 20px;
+        
+    }
