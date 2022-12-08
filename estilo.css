@@ -25,7 +25,7 @@ footer{
     margin-bottom: auto;
 }
 video#vi{
-
+margin: center;
  border-radius: 10px;   
 }
 div#nav{
@@ -62,6 +62,7 @@ border-radius: 10px;
 
     }
 img{
+    margin:center ;
         border-radius: 10px;
     }
 b#i{
