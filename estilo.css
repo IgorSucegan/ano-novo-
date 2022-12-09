@@ -4,12 +4,11 @@
 
 main#primeiro {
     font-family: 'Titillium Web', Sans-Serif;
-    background-color: black;
+    background-color: #00FFFF;
     border-radius: 10px;
     width: 90%;
     height: auto;
     margin: auto;
-
 }
 main#segundo {
 
@@ -36,11 +35,16 @@ footer {
     border-radius: 10px;
     margin: auto;
     margin-bottom: auto;
+    border-width: medium;
+    border-style: solid;
+    border-color: #00FFFF;
 }
 video#vi {
     margin: auto;
     border-radius: 10px;
-   ;
+       border-width: medium;
+    border-style: solid;
+    border-color: #00FFFF;
 
 }
 div#nav {
@@ -49,6 +53,9 @@ div#nav {
     width: 90%;
     margin-top: auto;
     margin: auto;
+           border-width: medium;
+    border-style: solid;
+    border-color: #00FFFF;
 }
 div#k7 {
     margin-left: auto;
@@ -80,7 +87,7 @@ img {
     margin: center;
     border-radius: 10px;
 }
-b#i {
+div#i {
     font-size: 20px;
-
+        margin: center;
 }
