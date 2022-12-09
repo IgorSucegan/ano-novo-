@@ -44,7 +44,6 @@ video#vi {
     border-width: medium;
     border-style: solid;
     border-color: #00FFFF;
-
 }
 div#nav {
     border-radius: 10px;
@@ -64,10 +63,7 @@ b#ti {
 div#md {
     border-radius: 10px;
 }
-div#nt {
-    font-family: 'Titillium Web', Sans-Serif;
-    text-align: center;
-}
+
 p#t {
     margin-left: auto;
     font-size: 18px;
@@ -86,4 +82,38 @@ img {
 div#i {
     font-size: 20px;
     margin: center;
+    text-align: center;
+}
+hr{
+    border-width: 10px;
+}
+
+div#kl{
+    background-color: #ADD8E6;
+    border-width: medium;
+    border-style: solid;
+   border-radius: 10px; 
+       font-family: 'Titillium Web', Sans-Serif;
+}
+
+h1#ca{
+text-align: center;
+font-family: 'Titillium Web', Sans-Serif
+
+}
+
+div#po{    font-family: 'Titillium Web', Sans-Serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+div#a{
+text-align: center;
+font-family: 'Titillium Web', Sans-Serif
+
+}
+div#o{    font-family: 'Titillium Web', Sans-Serif;
+    font-size: 20px;
+    margin-left: 10px;
+
+    
 }
