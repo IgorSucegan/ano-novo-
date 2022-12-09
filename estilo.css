@@ -6,8 +6,8 @@ main#primeiro {
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #00FFFF;
     border-radius: 10px;
-    width: auto;
-    height: auto;
+    width: 90%;
+    height: 400px;
     margin: auto;
 }
 main#segundo {
