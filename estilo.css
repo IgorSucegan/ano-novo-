@@ -42,7 +42,7 @@ footer {
 video#vi {
     margin: auto;
     border-radius: 10px;
-       border-width: medium;
+    border-width: medium;
     border-style: solid;
     border-color: #00FFFF;
 
@@ -56,9 +56,6 @@ div#nav {
            border-width: medium;
     border-style: solid;
     border-color: #00FFFF;
-}
-div#k7 {
-    margin-left: auto;
 }
 b#ti {
     font-family: 'Titillium Web', Sans-Serif;
