@@ -6,7 +6,7 @@ main#primeiro {
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #00FFFF;
     border-radius: 10px;
-    width: 95%;
+    width: 90%;
     height: auto;
     margin: auto;
 }
@@ -15,7 +15,7 @@ main#segundo {
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #F5FFFA;
     border-radius: 10px;
-    width: 95%;
+    width: 90%;
     height: auto;
     margin: auto;
     border-width: medium;
@@ -30,7 +30,7 @@ body {
 footer {
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #E0FFFF;
-    width: 95%;
+    width: 90%;
     height: 30px;
     border-radius: 10px;
     margin: auto;
@@ -50,7 +50,7 @@ video#vi {
 div#nav {
     border-radius: 10px;
     background-color: #E0FFFF;
-    width: 95%;
+    width: 90%;
     margin-top: auto;
     margin: auto;
            border-width: medium;
