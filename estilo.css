@@ -108,8 +108,12 @@ div#po{    font-family: 'Titillium Web', Sans-Serif;
 }
 
 div#o{    font-family: 'Titillium Web', Sans-Serif;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 10px;
 
     
+}
+
+hr#h{
+    border-width: 2px;
 }
