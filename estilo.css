@@ -6,7 +6,7 @@ main#primeiro {
     font-family: 'Titillium Web', Sans-Serif;
     background-color: #00FFFF;
     border-radius: 10px;
-    width: 90%;
+    width: auto;
     height: auto;
     margin: auto;
 }
