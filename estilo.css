@@ -2,16 +2,27 @@
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 
 main#primeiro {
-    font-family: 'Titillium Web', Sans-Serif;
-    background-color: #20B2AA;
+    font-family: 'Times New Roman';
+        background-color: #F5FFFA;
     border-radius: 10px;
+    border-width: 5px;
     width: 90%;
     height: auto;
     margin: auto;
+
+}
+main#primeiro1{
+    font-family: 'Times New Roman';
+        border-radius: 10px;
+    border-width: 5px;
+    width: 90%;
+    height: auto;
+    margin: auto;
+
 }
 main#segundo {
 
-    font-family: 'Titillium Web', Sans-Serif;
+    font-family: 'Times New Roman';
     background-color: #F5FFFA;
     border-radius: 10px;
     width: 90%;
@@ -23,11 +34,12 @@ main#segundo {
 
 }
 body {
-    font-family: 'Titillium Web', Sans-Serif;
+    font-family: 'Times New Roman';
     background-color: #20B2AA;
+    background-image: url('fundo.png');
 }
 footer {
-    font-family: 'Titillium Web', Sans-Serif;
+    font-family: 'Times New Roman';
     background-color: #E0FFFF;
     width: 90%;
     height: 30px;
@@ -54,9 +66,10 @@ div#nav {
     border-width: medium;
     border-style: solid;
     border-color: #00FFFF;
+    
 }
 b#ti {
-    font-family: 'Titillium Web', Sans-Serif;
+    font-family:'Times New Roman';
     margin-top: -5px;
     font-size: 40px;
 }
@@ -71,7 +84,7 @@ p#t {
 button#s {
 
 
-    font-family: 'Titillium Web', Sans-Serif;
+    font-family: 'Times New Roman';
     border-radius: 10px;
 
 }
@@ -84,36 +97,53 @@ div#i {
     margin: center;
     text-align: center;
 }
-hr{
+hr {
     border-width: 10px;
 }
 
-div#kl{
+div#kl {
     background-color: #ADD8E6;
     border-width: medium;
     border-style: solid;
-   border-radius: 10px; 
-       font-family: 'Titillium Web', Sans-Serif;
+    border-radius: 10px;
+    font-family: 'Times New Roman';
 }
 
-h1#ca{
-text-align: center;
-font-family: 'Titillium Web', Sans-Serif
+h1#ca {
+    text-align: center;
+    font-family: 'Times New Roman';
 
 }
 
-div#po{    font-family: 'Titillium Web', Sans-Serif;
+div#po {
+    font-family: 'Times New Roman';
+
     font-size: 20px;
     margin-left: 10px;
 }
 
-div#o{    font-family: 'Titillium Web', Sans-Serif;
+div#o {
+    font-family: 'Times New Roman';
     font-size: 18px;
     margin-left: 10px;
 
-    
+
 }
 
-hr#h{
+hr#h {
     border-width: 2px;
+}
+
+
+img#ic {
+    margin-left: 90%;
+    margin-top: -10%;
+}
+
+nav#n{
+    margin-left: -5%;
+   
+}
+a{
+   text-decoration: none;  
 }
