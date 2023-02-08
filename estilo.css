@@ -26,7 +26,7 @@ main#segundo {
     font-family: 'Times New Roman';
     background-color: #C0C0C0;
     border-radius: 10px;
-    width: 90%;
+    width:85%;
     height: auto;
     margin: auto;
     border-width: medium;
@@ -37,7 +37,7 @@ main#segundo {
 body {
     font-family: 'Times New Roman';
     background-color: #20B2AA;
-    background-image: url('fundo.png');
+    
 }
 footer {
     font-family: 'Times New Roman';
@@ -72,7 +72,7 @@ div#nav {
 
 
 div#md {
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 p#t {
